@@ -1,0 +1,17 @@
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.LogicaDeNegocio.deps.json
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.LogicaDeNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.LogicaDeNegocio.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.AccesoADatos.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.EntidadNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.AccesoADatos.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\bin\Debug\net7.0\SysInventario.EntidadNegocio.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInven.95D9F89C.Up2Date
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\refint\SysInventario.LogicaDeNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\SysInventario.LogicaDeNegocio.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.LogicaDeNegocio\obj\Debug\net7.0\ref\SysInventario.LogicaDeNegocio.dll

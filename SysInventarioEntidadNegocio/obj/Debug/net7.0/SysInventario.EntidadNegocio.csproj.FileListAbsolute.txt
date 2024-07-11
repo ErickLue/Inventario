@@ -1,0 +1,14 @@
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\bin\Debug\net7.0\SysInventario.EntidadNegocio.deps.json
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\bin\Debug\net7.0\SysInventario.EntidadNegocio.runtimeconfig.json
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\bin\Debug\net7.0\SysInventario.EntidadNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\bin\Debug\net7.0\SysInventario.EntidadNegocio.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.csproj.AssemblyReference.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.AssemblyInfoInputs.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.AssemblyInfo.cs
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\refint\SysInventario.EntidadNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\SysInventario.EntidadNegocio.genruntimeconfig.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventarioEntidadNegocio\obj\Debug\net7.0\ref\SysInventario.EntidadNegocio.dll

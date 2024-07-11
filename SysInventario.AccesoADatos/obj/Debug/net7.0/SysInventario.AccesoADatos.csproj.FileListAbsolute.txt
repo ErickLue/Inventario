@@ -1,0 +1,15 @@
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\bin\Debug\net7.0\SysInventario.AccesoADatos.deps.json
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\bin\Debug\net7.0\SysInventario.AccesoADatos.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\bin\Debug\net7.0\SysInventario.AccesoADatos.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\bin\Debug\net7.0\SysInventario.EntidadNegocio.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\bin\Debug\net7.0\SysInventario.EntidadNegocio.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.AssemblyInfo.cs
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInven.D930B156.Up2Date
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\refint\SysInventario.AccesoADatos.dll
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\SysInventario.AccesoADatos.pdb
+C:\Users\Isaia\OneDrive\Escritorio\SysInventario\SysInventario.AccesoADatos\obj\Debug\net7.0\ref\SysInventario.AccesoADatos.dll
